@@ -1,0 +1,55 @@
+#prvi {
+    margin: 20px auto;
+    width: 700px;
+    background-color: rgb(167, 167, 252);
+    border-radius: 20px;
+    border: black solid 2px;
+    height: 165px;
+    text-align: center;
+}
+.align {
+    text-align: center;
+}
+.dugme { 
+    font-size: 22px;
+    border: black 1px solid;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;   
+}
+.drugi {
+    margin: 20px auto;
+    width: 700px;
+    background-color: lightgreen;
+    border-radius: 20px;
+    border: black solid 2px;
+    height: 165px;
+}
+.levi {
+    text-align: left;
+    padding-left: 15px;
+}
+.treci  {
+        margin: 20px auto;
+        width: 700px;
+        background-color: rgb(233, 235, 162);
+        border-radius: 20px;
+        border: black solid 2px;
+        height: 165px;
+        text-align: right;
+    }
+.desni{
+    text-align: right;
+    margin-right: 20px;
+}
+.pd { 
+    background-color: darkblue;
+}
+.pd1 {
+    background-color: darkgreen;
+    margin-left: 20px;
+}
+.pd2 {
+    background-color: burlywood;
+    margin-right: 20px;
+}

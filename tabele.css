@@ -1,0 +1,21 @@
+table { 
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 40%;
+    margin-bottom: 20px;
+    border-bottom: 3px black dotted;
+}
+ td {
+    border: 1px solid black;
+    text-align: center;
+    height: 50px;
+}
+
+tr:nth-child(even) {
+    background-color: blue;
+}
+
+tr:nth-child(odd) {
+    background-color: red;
+}

@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+    li {
+    padding: auto 0px;
+    float: left;
+    list-style-type: none;
+    margin: 0px 30px;
+    color: white;
+    font-size: 22px;
+    padding-top: 33px;
+    font-family: sans-serif;
+}
+
+
+div {
+    height: 100px;
+    background-color: darkblue;
+    border-bottom: 3px solid yellow;
+}
+i {
+    color: white;
+    font-size: 35px;
+    float: right;
+    margin: 30px 30px;
+}

@@ -1,0 +1,18 @@
+#plavi { 
+    color: blue;
+}
+.prvi { 
+    text-align: center;
+}
+
+.crveni{
+    color: red;
+}
+
+a { 
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px 22px;
+    border: black 2px solid;
+}

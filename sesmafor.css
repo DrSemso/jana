@@ -1,0 +1,24 @@
+.veliki {
+    height: 600px;
+    width: 250px;
+    padding-top: 50px;
+    background-color: rgba(0, 0, 0, 0.63);
+    border: 3px black solid;
+}
+.crveni { 
+    background-color: red;
+}
+.zuti { 
+    margin-top: 50px;
+    background-color: yellow;
+}
+.zeleni { 
+    margin-top: 50px;
+    background-color: green;
+}
+.krug {
+    margin-left: 50px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}

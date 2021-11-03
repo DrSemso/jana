@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+}
+
+.dan {
+    padding-bottom: 5px;
+}
+
+.desni {
+    text-align: right;
+    border: 1px red solid;
+
+}
+tr {
+    border-bottom: solid 1px orange;
+}
+
+tr:nth-child(even){
+    background-color: rgb(248, 242, 230);
+} 
+
+th{
+    border: 1px solid rgb(241, 227, 203);
+}
+
+#employee {
+    letter-spacing: 10px;
+}
