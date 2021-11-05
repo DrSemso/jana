@@ -14,7 +14,9 @@
 }
 
 
-div {
+
+
+.dif {
     height: 100px;
     background-color: darkblue;
     border-bottom: 3px solid yellow;
@@ -24,4 +26,29 @@ i {
     font-size: 35px;
     float: right;
     margin: 30px 30px;
+}
+
+button {
+    font-size: 22px;
+    border: 2px yellow solid;
+    border-radius: 10px;
+    background-color: red;
+    margin-top: 700px;
+    margin-left: 435px;
+}
+button:hover {
+    background-color: pink;
+    border: purple 3px dotted;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+.jana {
+    background-image: url('https://images.pexels.com/photos/3571065/pexels-photo-3571065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    height: 1000px;
+    background-attachment: scroll;
+}
+li:hover {
+    color: red;
 }
